@@ -15,3 +15,4 @@ sleep 3
 @browser.find_element(:xpath => '//a[@href="/wiki/Anime"]').click
 sleep 3
 @browser.find_element(:xpath => '//a[@href="/wiki/Pok%C3%A9mon"]').click
+sleep 3
